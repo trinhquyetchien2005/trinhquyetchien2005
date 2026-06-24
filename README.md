@@ -1,24 +1,15 @@
-<img src="https://giffiles.alphacoders.com/209/209343.gif">
-<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%">
-<img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%">
-<p align="center" style="margin:50px"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1500&color=F552F7C6&width=440&lines=Xin+ch%C3%A0o+m%E1%BB%8Di+ngu%E1%BB%9Di%2C++m%C3%ACnh+l%C3%A0+Chi%E1%BA%BFn.;Hello+everyone%2C+my+name+is+Chien.;%E7%9A%86%E3%81%95%E3%82%93%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%E3%80%81%E7%A7%81%E3%81%AE%E5%90%8D%E5%89%8D%E3%81%AF%E3%83%81%E3%82%A8%E3%83%B3%E3%81%A7%E3%81%99%E3%80%82" alt="Typing SVG" /></p>
+<div align="center">
 
-<h3 align="center">Da Nang, Viet Nam </h3>
-<p align="center">Android developer | Backend Developer </p>
-<p align="center"></p>
+[**English**](README.md) | [Tiếng Việt](README.vi.md) | [日本語](README.ja.md)
 
----
+# Hi, I'm Chien
 
-<h2 align="center">🌐 Connect with Me</h2>
+### Android & Backend Developer
 
-<p align="center">
-🚀 Aspiring <b>Android Developer</b> with a strong interest in backend systems<br/>
-🧠 Currently learning <b>scalable architectures</b> and <b>system design fundamentals</b><br/>
-🔧 Hands-on experience with <b>REST APIs</b>, mobile apps, and small full-stack projects<br/>
-📚 Continuously improving through practice and real-world projects<br/>
-🎯 Goal: Grow into a <b>professional software engineer</b>
-</p>
+I build reliable mobile applications and backend services, with a focus on
+clean architecture, maintainable code, and practical user experiences.
 
+<<<<<<< HEAD
 <p align="center">
 <a href="https://www.facebook.com/QuyetChien.1509">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" />
@@ -27,93 +18,65 @@
   <img src="https://topdev.vn/blog/wp-content/uploads/2025/09/18c75045489c1c6995d337db8025abcd.jpg" height="30" width="40" />
 </a>
 </p>
+=======
+[![Location](https://img.shields.io/badge/Da_Nang-Viet_Nam-0A66C2?style=flat-square&logo=googlemaps&logoColor=white)](https://www.google.com/maps/place/Da+Nang,+Vietnam)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Chiến_Trinh-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chien-trinh-quyet-3812642a3)
+[![Facebook](https://img.shields.io/badge/Facebook-Quyet_Chiến-0866FF?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/QuyetChien.1509)
+[![Profile Views](https://komarev.com/ghpvc/?username=trinhquyetchien&style=flat-square&color=0A66C2)](https://github.com/trinhquyetchien)
+>>>>>>> a195fa0 (feat(all): ja, vi, en)
 
----
+</div>
 
-<h2 align="center">🔧 Languages and Tools</h2>
-<div align="">
-<table align="center" style="border-collapse: collapse;">
-  <tr>
-    <th style="padding: 12px;">Category</th>
-    <th style="padding: 12px;">Tech Stack</th>
-  </tr>
+## About Me
 
-  <tr>
-    <td align="center" valign="middle" style="padding: 10px;"><b>Backend</b></td>
-    <td align="center" valign="middle" style="padding: 10px;">
-      <img src="https://skillicons.dev/icons?i=java,nodejs,spring" />
-    </td>
-  </tr>
+- Building Android applications and RESTful backend services
+- Learning scalable architecture, system design, and cloud technologies
+- Interested in clean code, performance, and developer experience
+- Working toward becoming a well-rounded software engineer
 
-  <tr>
-    <td align="center" valign="middle" style="padding: 10px;"><b>Web</b></td>
-    <td align="center" valign="middle" style="padding: 10px;">
-      <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,vue,nestjs" />
-    </td>
-  </tr>
+## Current Focus
 
-  <tr>
-    <td align="center" valign="middle" style="padding: 10px;"><b>Database</b></td>
-    <td align="center" valign="middle" style="padding: 10px;">
-      <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,sqlite" />
-    </td>
-  </tr>
+- Designing maintainable Android applications with modern architecture
+- Developing secure and scalable REST APIs
+- Improving system design, testing, CI/CD, and cloud deployment skills
+- Turning practical ideas into complete, production-oriented projects
 
-  <tr>
-    <td align="center" valign="middle" style="padding: 10px;"><b>Android</b></td>
-    <td align="center" valign="middle" style="padding: 10px;">
-      <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,flutter," />
-    </td>
-  </tr>
+## Tech Stack
 
-  <tr>
-    <td align="center" valign="middle" style="padding: 10px;"><b>Cloud / Realtime</b></td>
-    <td align="center" valign="middle" style="padding: 10px;">
-      <img src="https://skillicons.dev/icons?i=redis,firebase,aws," />
-    </td>
-  </tr>
+<div align="center">
 
-  <tr>
-    <td align="center" valign="middle" style="padding: 10px;"><b>Tools adn Ide</b></td>
-    <td align="center" valign="middle" style="padding: 10px;">
-      <img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,figma,postman,neovim,idea," />
-    </td>
-  </tr>
+| Area | Technologies |
+| --- | --- |
+| **Android** | <img src="https://skillicons.dev/icons?i=kotlin,flutter,react,gradle,firebase" alt="Kotlin, Flutter, React Native, Gradle, Firebase" /> |
+| **Backend** | <img src="https://skillicons.dev/icons?i=java,spring,nodejs,nestjs" alt="Java, Spring Boot, Node.js, NestJS" /> |
+| **Web** | <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,vue" alt="HTML, CSS, Tailwind CSS, JavaScript, TypeScript, React, Vue" /> |
+| **Tools** | <img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,jenkins,postman,figma" alt="Git, GitHub, GitLab, Docker, Jenkins, Postman, Figma" /> |
+| **IDE** | <img src="https://skillicons.dev/icons?i=androidstudio,idea,neovim" alt="Android Studio, IntelliJ IDEA, Neovim" /> |
+| **Database** | <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,redis" alt="PostgreSQL, MySQL, MongoDB, SQLite, Redis" /> |
 
- <tr>
-    <td align="center" valign="middle" style="padding: 10px;"><b>Other</b></td>
-    <td align="center" valign="middle" style="padding: 10px;">
-      <img src="https://skillicons.dev/icons?i=githubactions,gradle,jenkins,npm,nginx,redux,vite," />
-    </td>
-  </tr>
+</div>
 
-</table>
+## GitHub Analytics
 
----
+<div align="center">
+  <img height="165" src="https://github-readme-stats-salesp07.vercel.app/api?username=trinhquyetchien&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="Chiến's GitHub statistics" />
+  <img height="165" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=trinhquyetchien&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Chiến's most used languages" />
+</div>
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats-salesp07.vercel.app/api?username=trinhquyetchien&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" />
-  <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=trinhquyetchien&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10" />
-</p>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=trinhquyetchien&theme=github-dark-blue&hide_border=true" alt="Chiến's GitHub contribution streak" />
+</div>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=trinhquyetchien&count_private=true&theme=react&border_radius=10" />
-</p>
+## Certifications & Awards
 
----
+- **Japanese-Language Proficiency Test (JLPT) N4**
+- **English:** Basic proficiency (B1)
+- **Fourth Prize**, AI for Life Competition, Da Nang
 
-## 📈 Activity Graph
+## Contribution Activity
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=trinhquyetchien&theme=react-dark&bg_color=0d1117&hide_border=true" alt="GitHub Activity" />
-</p>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=trinhquyetchien&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Chiến's GitHub activity graph" />
+</div>
 
----
-
-## 🐍 Snake Eating Contribution Graph
-
-<p align="center">
-<img src="https://github.com/trinhquyetchien/trinhquyetchien2005/blob/output/snake.svg" />
-</p>
 
