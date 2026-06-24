@@ -9,7 +9,6 @@
 I build reliable mobile applications and backend services, with a focus on
 clean architecture, maintainable code, and practical user experiences.
 
-<<<<<<< HEAD
 <p align="center">
 <a href="https://www.facebook.com/QuyetChien.1509">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" />
@@ -18,12 +17,6 @@ clean architecture, maintainable code, and practical user experiences.
   <img src="https://topdev.vn/blog/wp-content/uploads/2025/09/18c75045489c1c6995d337db8025abcd.jpg" height="30" width="40" />
 </a>
 </p>
-=======
-[![Location](https://img.shields.io/badge/Da_Nang-Viet_Nam-0A66C2?style=flat-square&logo=googlemaps&logoColor=white)](https://www.google.com/maps/place/Da+Nang,+Vietnam)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Chiến_Trinh-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chien-trinh-quyet-3812642a3)
-[![Facebook](https://img.shields.io/badge/Facebook-Quyet_Chiến-0866FF?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/QuyetChien.1509)
-[![Profile Views](https://komarev.com/ghpvc/?username=trinhquyetchien&style=flat-square&color=0A66C2)](https://github.com/trinhquyetchien)
->>>>>>> a195fa0 (feat(all): ja, vi, en)
 
 </div>
 
